@@ -1,0 +1,22 @@
+[
+  {
+    "name": "soap",
+    "price": 3,
+    "description": "A bar of soap",
+    "amount": 1500,
+    "unit": "bars"
+  },
+  {
+    "name": "shampoo",
+    "price": 10,
+    "description": "A bottle of shampoo",
+    "amount": 650,
+    "unit": "bottles"
+  },
+  {
+    "name": "sponge",
+    "price": 0.99,
+    "description": "A sponge",
+    "amount": 9,
+    "unit": "unit"
+  }]
